@@ -8,7 +8,9 @@ import puppies from "./puppies.json";
 
 class App extends Component {
   state = {
-    puppies
+    puppies,
+    score: 0,
+    topscore: 0
   }
   render() {
     return (
