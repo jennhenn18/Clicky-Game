@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"Pug",
+        "img": "../images/pug.jpg"
+    },{
+        "id": 2,
+        "name":"Aussies",
+        "img": "../images/aussie.jpg"
+    },{
+        "id": 3,
+        "name":"Beagle",
+        "img": "../images/beagle.jpg"
+    },{
+        "id": 4,
+        "name":"Chihuahua",
+        "img": "../images/chi.jpg"
+    },{
+        "id": 5,
+        "name":"Bulldog",
+        "img": "../images/bulldog.jpg"
+    },{
+        "id": 6,
+        "name":"Corgi",
+        "img": "../images/corgi.jpg"
+    },{
+        "id": 7,
+        "name":"Frenchie",
+        "img": "../images/frenchie.jpg"
+    },{
+        "id": 8,
+        "name":"Husky",
+        "img": "../images/husky.jpg"
+    },{
+        "id": 9,
+        "name":"Lab",
+        "img": "../images/lab.jpg"
+    },{
+        "id": 10,
+        "name":"Collie",
+        "img": "../images/mutt.jpg"
+    },{
+        "id": 11,
+        "name":"Rottweiler",
+        "img": "../images/Rottweiler.jpg"
+    },{
+        "id": 12,
+        "name":"Spaniel",
+        "img": "../images/spaniel.jpg"
+    }
+]
