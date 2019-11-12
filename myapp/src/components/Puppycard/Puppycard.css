@@ -1,4 +1,15 @@
+.puppyrow {
+    display: inline-flex;
+    margin: 20px;
+}
+
+.puppycard {
+    display: inline-block;
+    
+}
+
 .puppyimage {
     height: 200px;
     width: 330px;
+    
 }

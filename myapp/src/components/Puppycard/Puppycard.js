@@ -1,10 +1,10 @@
 import React from "react";
-import style from "./Puppycard.css";
+import "./Puppycard.css";
 
 function Puppycard(props) {
     return (
-        <div className="card-deck">
-            <div className="card-img-top">
+        <div className="card-deck puppyrow">
+            <div className="card-img-top puppycard" onClick={() => props.handleOnClick(props.id)}>
                 <img className="puppyimage" src={props.image} alt={props.name} />
             </div>
         </div>
