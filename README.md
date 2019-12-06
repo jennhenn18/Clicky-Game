@@ -13,4 +13,4 @@ Click-game is a game all about memory. Try to click all 12 puppies without picki
 
 ## Demo
 
-![GIF Demo](https://github.com/jennhenn18/Clicky-Game/blob/master/XphXLotcVh.gif = 250x250)
+![GIF Demo](https://github.com/jennhenn18/Clicky-Game/blob/master/XphXLotcVh.gif)
